@@ -1,6 +1,7 @@
+Q1 - 
 Program 1
-q1 -
 Predicted Output:
+
 Original Hostel Fee: 45000
 Inside Value Function: 40500
 Stored Fee after Value: 45000
@@ -9,9 +10,13 @@ Stored Fee after Reference: 40500
 Inside Pointer Function: 40500
 Stored Fee after Pointer: 40500
 Program 2
-q2 - 
 Predicted Output:
 
 1 12 13
 1 100
 16 13 6
+Program 3 
+Predicted Output:
+
+after call by value : 45000
+after call by reference: 40500
